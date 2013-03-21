@@ -1,0 +1,8 @@
+
+/assets/cache/*
+/uploads/*
+/tmp/*
+/i/*
+/css/*
+/js/*
+favicon.ico

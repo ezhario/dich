@@ -1,0 +1,69 @@
+/* Core Styles */
+.dich-file-manager-tree-item .expanded { background: url(images/folder_open.png) left top no-repeat; }
+.dich-file-manager-tree-item .collapsed { background: url(images/directory.png) left top no-repeat; }
+.dich-file-manager-tree-item .selected { }
+.dich-file-manager-tree-item .wait { background: url(images/spinner.gif) left top no-repeat; }
+
+.dich-file-manager .file { background: url(images/file.png) left top no-repeat; }
+.dich-file-manager .directory { background: url(images/directory.png) left top no-repeat; }
+
+/* File Extensions*/
+.dich-file-manager .ext_3gp { background: url(images/film.png) left top no-repeat; }
+.dich-file-manager .ext_afp { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_afpa { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_asp { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_aspx { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_avi { background: url(images/film.png) left top no-repeat; }
+.dich-file-manager .ext_bat { background: url(images/application.png) left top no-repeat; }
+.dich-file-manager .ext_bmp { background: url(images/picture.png) left top no-repeat; }
+.dich-file-manager .ext_c { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_cfm { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_cgi { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_com { background: url(images/application.png) left top no-repeat; }
+.dich-file-manager .ext_cpp { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_css { background: url(images/css.png) left top no-repeat; }
+.dich-file-manager .ext_doc { background: url(images/doc.png) left top no-repeat; }
+.dich-file-manager .ext_exe { background: url(images/application.png) left top no-repeat; }
+.dich-file-manager .ext_gif { background: url(images/picture.png) left top no-repeat; }
+.dich-file-manager .ext_fla { background: url(images/flash.png) left top no-repeat; }
+.dich-file-manager .ext_h { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_htm { background: url(images/html.png) left top no-repeat; }
+.dich-file-manager .ext_html { background: url(images/html.png) left top no-repeat; }
+.dich-file-manager .ext_jar { background: url(images/java.png) left top no-repeat; }
+.dich-file-manager .ext_jpg { background: url(images/picture.png) left top no-repeat; }
+.dich-file-manager .ext_jpeg { background: url(images/picture.png) left top no-repeat; }
+.dich-file-manager .ext_js { background: url(images/script.png) left top no-repeat; }
+.dich-file-manager .ext_lasso { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_log { background: url(images/txt.png) left top no-repeat; }
+.dich-file-manager .ext_m4p { background: url(images/music.png) left top no-repeat; }
+.dich-file-manager .ext_mov { background: url(images/film.png) left top no-repeat; }
+.dich-file-manager .ext_mp3 { background: url(images/music.png) left top no-repeat; }
+.dich-file-manager .ext_mp4 { background: url(images/film.png) left top no-repeat; }
+.dich-file-manager .ext_mpg { background: url(images/film.png) left top no-repeat; }
+.dich-file-manager .ext_mpeg { background: url(images/film.png) left top no-repeat; }
+.dich-file-manager .ext_ogg { background: url(images/music.png) left top no-repeat; }
+.dich-file-manager .ext_pcx { background: url(images/picture.png) left top no-repeat; }
+.dich-file-manager .ext_pdf { background: url(images/pdf.png) left top no-repeat; }
+.dich-file-manager .ext_php { background: url(images/php.png) left top no-repeat; }
+.dich-file-manager .ext_png { background: url(images/picture.png) left top no-repeat; }
+.dich-file-manager .ext_ppt { background: url(images/ppt.png) left top no-repeat; }
+.dich-file-manager .ext_psd { background: url(images/psd.png) left top no-repeat; }
+.dich-file-manager .ext_pl { background: url(images/script.png) left top no-repeat; }
+.dich-file-manager .ext_py { background: url(images/script.png) left top no-repeat; }
+.dich-file-manager .ext_rb { background: url(images/ruby.png) left top no-repeat; }
+.dich-file-manager .ext_rbx { background: url(images/ruby.png) left top no-repeat; }
+.dich-file-manager .ext_rhtml { background: url(images/ruby.png) left top no-repeat; }
+.dich-file-manager .ext_rpm { background: url(images/linux.png) left top no-repeat; }
+.dich-file-manager .ext_ruby { background: url(images/ruby.png) left top no-repeat; }
+.dich-file-manager .ext_sql { background: url(images/db.png) left top no-repeat; }
+.dich-file-manager .ext_swf { background: url(images/flash.png) left top no-repeat; }
+.dich-file-manager .ext_tif { background: url(images/picture.png) left top no-repeat; }
+.dich-file-manager .ext_tiff { background: url(images/picture.png) left top no-repeat; }
+.dich-file-manager .ext_txt { background: url(images/txt.png) left top no-repeat; }
+.dich-file-manager .ext_vb { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_wav { background: url(images/music.png) left top no-repeat; }
+.dich-file-manager .ext_wmv { background: url(images/film.png) left top no-repeat; }
+.dich-file-manager .ext_xls { background: url(images/xls.png) left top no-repeat; }
+.dich-file-manager .ext_xml { background: url(images/code.png) left top no-repeat; }
+.dich-file-manager .ext_zip { background: url(images/zip.png) left top no-repeat; }
+
